@@ -1,0 +1,26 @@
+{
+int a ;
+int b ;
+int z;
+int y;
+float dumb;
+int d;
+y=1000;
+d=100;
+a= 17;z=9;b=2;
+dumb= 10;
+a=1;
+for(a=a*15-10;a<13;a=a+1)
+{y=y * (2 + z) + (a-b);}
+y=0;
+if(10==10)
+{
+    int pandey;
+    int sushil;
+    sushil=0;
+    pandey = sushil;
+}
+for(;;){pandey = sushil;sushil = 9-8;}
+b=10+10;
+}
+ 
